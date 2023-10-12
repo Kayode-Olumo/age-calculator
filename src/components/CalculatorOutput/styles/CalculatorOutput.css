@@ -1,0 +1,13 @@
+.output-txt {
+    color: var(--Black, #151515);
+    font-size: 77px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 30%;
+    letter-spacing: -2.08px;
+    margin-top: 25px;
+}
+
+.output-txt > span {
+    color: var(--Purple, #854DFF);
+}
